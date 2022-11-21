@@ -5,6 +5,12 @@ VisualStudioVersion = 16.0.32630.194
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "KoP8", "KoP8\KoP8.pyproj", "{29EDB4BE-8EFA-412E-AFD9-E351A8342FB1}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "KoP6", "KoP6\KoP6.pyproj", "{80CCB880-1F71-4755-A944-F6F40E59A9B6}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "KoP7", "KoP7\KoP7.pyproj", "{BFA11340-F478-4094-93D3-86EADFF2B0BC}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "KoP5", "KoP5\KoP5.pyproj", "{C4789A07-B338-4A0A-A579-0439D4E58651}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +19,12 @@ Global
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{29EDB4BE-8EFA-412E-AFD9-E351A8342FB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{29EDB4BE-8EFA-412E-AFD9-E351A8342FB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80CCB880-1F71-4755-A944-F6F40E59A9B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80CCB880-1F71-4755-A944-F6F40E59A9B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFA11340-F478-4094-93D3-86EADFF2B0BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFA11340-F478-4094-93D3-86EADFF2B0BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4789A07-B338-4A0A-A579-0439D4E58651}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4789A07-B338-4A0A-A579-0439D4E58651}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
