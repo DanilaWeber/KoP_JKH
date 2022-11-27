@@ -11,6 +11,8 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "KoP7", "KoP7\KoP7.pyproj", 
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "KoP5", "KoP5\KoP5.pyproj", "{C4789A07-B338-4A0A-A579-0439D4E58651}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "KoP9", "KoP9\KoP9.pyproj", "{486E4217-A788-4D1F-AABD-3981B853C1A9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +27,8 @@ Global
 		{BFA11340-F478-4094-93D3-86EADFF2B0BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C4789A07-B338-4A0A-A579-0439D4E58651}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{C4789A07-B338-4A0A-A579-0439D4E58651}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{486E4217-A788-4D1F-AABD-3981B853C1A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{486E4217-A788-4D1F-AABD-3981B853C1A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
